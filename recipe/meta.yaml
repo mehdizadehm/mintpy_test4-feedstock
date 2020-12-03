@@ -2,7 +2,7 @@
 
 package:
     name: mintpy_test4
-    version: {{ version }}
+    version: 1.2.3.01
 
 about:
     home: https://github.com/mehdizadehm/MintPy

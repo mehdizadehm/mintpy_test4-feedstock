@@ -1,13 +1,15 @@
 About mintpy_test4
 ==================
 
-Home: 
+Home: https://github.com/mehdizadehm/MintPy
 
 Package license: 
 
 Feedstock license: [BSD-3-Clause](https://github.com/mehdizadehm/mintpy_test4-feedstock/blob/master/LICENSE.txt)
 
-Summary: 
+Summary: Mintpy Beta Version
+
+Development: https://github.com/mehdizadehm/MintPy
 
 Current build status
 ====================

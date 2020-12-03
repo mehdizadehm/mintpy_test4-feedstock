@@ -1,4 +1,4 @@
-{% set version = "1.2.3.01" %}
+{% set version = "1.2.3.0" %}
 
 package:
     name: mintpy_test4

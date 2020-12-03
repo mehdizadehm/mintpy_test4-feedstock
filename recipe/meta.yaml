@@ -1,6 +1,15 @@
-{% set version = "1.2.3.0" %}
+{% set version = "1.2.3.01" %}
 
 package:
     name: mintpy_test4
     version: {{ version }}
 
+about:
+    home: https://github.com/mehdizadehm/MintPy
+    summary: Mintpy Beta Version
+    dev_url: https://github.com/mehdizadehm/MintPy
+
+source:
+      url: https://github.com/mehdizadehm/MintPy/archive/v{{ version }}.tar.gz
+      folder: mintpy_beta
+      sha256: b8e44095658de12f4778c38d4ed47ea0da23bd2d61138f06be1cadcd0d866143

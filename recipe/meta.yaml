@@ -4,6 +4,21 @@ package:
     name: mintpy_test4
     version: {{ version }}
 
+
+requirements:
+      build:
+          - {{ compiler('c') }}
+      host:
+          - python
+          - pip
+      run:
+          - python
+          - gdal
+          - libgdal
+          - numpy
+          - scipy
+          - fftw
+
 about:
     home: https://github.com/mehdizadehm/MintPy
     summary: Mintpy Beta Version

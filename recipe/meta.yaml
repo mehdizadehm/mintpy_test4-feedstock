@@ -27,4 +27,4 @@ about:
 source:
       url: https://github.com/mehdizadehm/MintPy/archive/v{{ version }}.tar.gz
       folder: mintpy_beta
-      sha256: 4799e31c14aa931839c2a70b2fdfebfef47be2d4ac48e9ba5a207da06a2df090
+      sha256: 4799e31c14aa931839c2a70b2fdfebfef47be2d4ac48e9ba5a207da06a2df090 

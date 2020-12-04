@@ -12,4 +12,4 @@ about:
 source:
       url: https://github.com/mehdizadehm/MintPy/archive/v{{ version }}.tar.gz
       folder: mintpy_beta
-      sha256: b8e44095658de12f4778c38d4ed47ea0da23bd2d61138f06be1cadcd0d866143
+      sha256: 4799e31c14aa931839c2a70b2fdfebfef47be2d4ac48e9ba5a207da06a2df090
